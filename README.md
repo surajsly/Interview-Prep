@@ -9,6 +9,7 @@
 
 ## THEORY
 >  * [MIT 6.042J Mathematics for Computer Science, Fall 2010](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
+>  * [MIT 6.006 Introduction to Algorithms,Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
 > ### Asymptotic analysis
  * [Asymptotic analysis (Big-O notation)](https://www.youtube.com/watch?v=V42FBiohc6c&list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
