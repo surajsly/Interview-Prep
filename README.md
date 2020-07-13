@@ -24,7 +24,7 @@
 > ### Array 
  * [Array](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE)
  * [Geeks For Geeks - Array](https://www.geeksforgeeks.org/array-data-structure/)
- * [Array Question HackerRank](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays)
- * [Array Code Chef Question](https://www.codechef.com/tags/problems/array)
+ * [Array Question HackerRank](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays) -Practice
+ * [Array Question Code Chef ](https://www.codechef.com/tags/problems/array) -Practice
 
 
