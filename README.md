@@ -5,7 +5,7 @@
 | Serial no.        | Topic     |
 | ------------- |:-------------:|
 | 1.    | Asymptotic analysis (Big-O notation) |
-
+|2.     | Array|
 
 ## THEORY
 >  * [MIT 6.042J Mathematics for Computer Science, Fall 2010](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
@@ -20,6 +20,5 @@
  * [Array](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE)
  * [Geeks For Geeks - Array](https://www.geeksforgeeks.org/array-data-structure/)
  * [Array Code Chef Question](https://www.codechef.com/tags/problems/array)
- * []()
 
 
