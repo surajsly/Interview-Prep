@@ -27,4 +27,5 @@
  * [Array Question HackerRank](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays) -Practice
  * [Array Question Code Chef ](https://www.codechef.com/tags/problems/array) -Practice
 
-
+## EXTRAS
+ > [List Of Learning Resources](https://www.topcoder.com/thrive/articles/List%20of%20awesome%20learning%20resources)
