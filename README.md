@@ -27,5 +27,10 @@
  * [Array Question HackerRank](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays) -Practice
  * [Array Question Code Chef ](https://www.codechef.com/tags/problems/array) -Practice
 
+> ### Stack
+* [Stack Geeks for Geeks](https://www.geeksforgeeks.org/stack-data-structure/)
+* [Stack Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm)
+* [Stack Video](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
+
 ## EXTRAS
  > [List Of awesome Learning Resources](https://www.topcoder.com/thrive/articles/List%20of%20awesome%20learning%20resources)
